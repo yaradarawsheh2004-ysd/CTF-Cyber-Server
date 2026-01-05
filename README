@@ -1,0 +1,39 @@
+– Security Assessment Report
+
+Overview
+This repository contains the security assessment report and vulnerable machine used in an academic Capture The Flag (CTF) exercise.
+
+The assessment simulates a real-world internal penetration test conducted against a deliberately vulnerable system named **cyber-server**, with the objective of achieving full system compromise (root access).
+
+---
+
+Assessment Scope
+- Internal penetration testing
+- Web application exploitation
+- Credential attacks
+- Privilege escalation
+- Post-exploitation analysis
+
+**Target IP:** `192.168.56.104`  
+**Testing Methodology:** Inspired by NIST SP 800-115
+
+---
+
+Tools Used
+- Netdiscover
+- Nmap
+- Hydra
+- SSH
+- Linux privilege escalation techniques
+
+---
+
+ Flags Summary
+| Flag | Description | Location |
+|-----|------------|----------|
+| Flag 1 | Web Application Exploitation | Port 8080 |
+| Flag 2 | User Access | `/home/engineer_alpha/user.txt` |
+| Flag 3 | Root Access | `/root/root.txt` |
+
+
+## 📂 Repository Structure
