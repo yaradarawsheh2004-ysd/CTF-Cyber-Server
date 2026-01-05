@@ -34,6 +34,3 @@ Tools Used
 | Flag 1 | Web Application Exploitation | Port 8080 |
 | Flag 2 | User Access | `/home/engineer_alpha/user.txt` |
 | Flag 3 | Root Access | `/root/root.txt` |
-
-
-## 📂 Repository Structure
