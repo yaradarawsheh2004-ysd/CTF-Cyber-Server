@@ -1,0 +1,8 @@
+This directory contains evidence collected during the security assessment.
+
+- netdiscover.png – Network discovery
+- nmap.png – Service enumeration
+- web_flag.png – Web exploitation flag
+- hydra.png – SSH brute-force attack
+- user_flag.png – User-level flag
+- root_flag.png – Root-level flag
