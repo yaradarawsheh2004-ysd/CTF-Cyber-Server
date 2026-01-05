@@ -1,0 +1,25 @@
+The machine simulates common real-world misconfigurations including:
+- Insecure web application logic
+- Weak SSH credentials
+- Improper sudo privilege configuration
+
+## Difficulty
+Beginner – Intermediate
+
+## Download
+[Download cyber-server.ova](https://drive.google.com/file/d/1OJG3W4gzPWjDAOovOE17ioOlL_OurwCl/view?usp=drive_link)
+
+## Network Configuration
+- Recommended: Host-Only Adapter
+- Default IP: DHCP
+
+## Credentials
+- None provided intentionally
+
+## Flags
+- Web flag
+- User flag
+- Root flag
+
+## Disclaimer
+This machine is for educational purposes only.
